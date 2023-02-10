@@ -1,30 +1,66 @@
 #classic {
-text-align: justify;
-  padding-left: 15px;
-  padding-top: 15px;
-  padding-right: ;
-}
-
-#modern {
-
-}
-
-#impact {
-
-}
-
-#elise {
-
-}
-
-#one, #two  {
-
-}
-
-#gaudi {
-
-}
-
-
-
-
+  text-align: justify;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+  font-weight: lighter;
+  font-weight: bold;
+  }
+  
+  #modern {
+  text-align: center;
+    box-shadow: 2px 2px 4px gray;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: #fed729;
+    
+  }
+  
+  #impact {
+    background-color: #90ef8f;
+    border: 15px double;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 15px;
+  }
+  
+  #elise {
+    background-color: #80fcd4;
+    border: 6px groove;
+    text-align: center;
+    font-family: Apple Chancery;
+    font-weight: bold;
+    padding: 15px;
+    box-shadow: 2px 2px 4px gray;
+  }
+  
+  #one, #two  {
+  display: inline-block;
+    background-color: #80fcd4;
+    margin-left: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    border: 10px ridge cornflowerblue;
+  }
+  
+  #gaudi {
+  background-color: #fba07a;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 25px 50px 25px 50px;
+    box-shadow: 2px 2px 4px gray;
+  }
+  
+  
+  
+  
+  
